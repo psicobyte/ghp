@@ -1,0 +1,27 @@
+[
+{"title": "sluger",
+"repolink": "https://github.com/psicobyte/sluger",
+"description": "Acortador de URLs para la Universidad de Granada.\nActualmente está en uso en http://sl.ugr.es.",
+"bloglink": ""},
+{"title": "twcli",
+"repolink": "https://github.com/psicobyte/twcli",
+"description": "Cliente de twitter en línea de comandos.",
+"bloglink": ""},
+{"title": "PrecioPropiedadIntelctual",
+"repolink": "https://github.com/psicobyte/PrecioPropiedadIntelctual",
+"description": "Script de GNUplot para dibujar una gráfica por países de insgresos y gastos en concepto de Propiedad Intelectual.",
+"bloglink": "http://www.psicobyte.com/articulo/el_pecio_de_la_propiedad_intelectual"},
+{"title": "PiMondrian",
+"repolink": "https://github.com/psicobyte/PiMondrian",
+"description": "Programa generador de pinturas (imitando el estilo de Mondrian) basado en el número Pi",
+"bloglink": "http://www.psicobyte.com/articulo/pi_mondrian"},
+{"title": "bubbles",
+"repolink": "https://github.com/psicobyte/bubbles",
+"description": "Otro pequeño experimento de arte algorítmico a partir de secuencias numéricas",
+"bloglink": "http://www.psicobyte.com/articulo/tension_superficial"},
+{"title": "violencia_pareja",
+"repolink": "https://github.com/psicobyte/violencia_pareja",
+"description": "Script de GNUplot para dibujar una gráfica de víctimas mortales de la Violencia de Género y de la Violencia Doméstica en el ámbito de la pareja o ex pareja.",
+"bloglink": "http://www.psicobyte.com/articulo/hombres_y_v%C3%ADctimas"}
+]
+
