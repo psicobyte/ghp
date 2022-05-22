@@ -1,11 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import dataJSON from '../../data/repolist.json'
-interface Repo {
-    title:       string;
-    repolink:    string;
-    description: string;
-    bloglink:    string;
-}
+import Card from "./Card";
+import {Repo} from "./types";
 
 const RepoList = () => {
     const [repoList, setRepoList] = useState<Repo[]>([])
@@ -20,12 +16,10 @@ const RepoList = () => {
 
     return (
         <div>
-            <h1>Repositorios</h1>
+            <h2>Algunos repositorios</h2>
             <div>
                 {repoList.map((item: Repo) => (
-                    <div>
-                        {item.title}
-                    </div>
+                    <Card key = {item.repolink} {...item} />
                 ))}
             </div>
         </div>

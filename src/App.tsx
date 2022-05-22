@@ -1,12 +1,12 @@
 import React from 'react';
-import RepoList from "./components/RepoList";
+import Main from "./screens/Main";
 
 function App() {
-  return (
-    <div className="App">
-        <RepoList />
-    </div>
-  );
+    return (
+        <div className="App">
+            <Main/>
+        </div>
+    );
 }
 
 export default App;

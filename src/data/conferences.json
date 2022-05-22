@@ -1,0 +1,45 @@
+[
+{
+"title": "El Zen de Git",
+"link": "https://www.youtube.com/watch?v=P4RcOZycZBM",
+"description": "Charla de Git en la Facultad de Informática de la Universidad de Granada", 
+"bloglink": "https://www.psicobyte.com/articulo/el_zen_de_git"
+},
+{
+"title": "El software libre y sus demonios",
+"link": "https://youtu.be/lIeicLFSXug",
+"description": "Charla en la Facultad de Informática de la Universidad Complutense de Madrid", 
+"bloglink": "https://www.psicobyte.com/articulo/el_software_libre_y_sus_demonios"
+},
+{
+"title": "Mamá, salgo en la tele",
+"link": "https://www.youtube.com/watch?v=hdCkKPAwEwo&list=PLfTidI9LGZht9oK8pr6T1Vgl94Mqyn7bp",
+"description": "Durante la presentación del Decálogo de Granada sobre el Estado del Software Libre", 
+"bloglink": ""
+},
+{
+"title": "Licencias CC",
+"link": "https://www.youtube.com/watch?v=yjE-k5BbA1E",
+"description": "Chara sobre licencias durante el Document Freedom Day 2015", 
+"bloglink": ""
+},
+{
+"title": "Copyleft",
+"link": "https://youtu.be/PiktaOqAI1A",
+"description": "Hablando de Copyleft en el Maker Day Granada, invitado por el MediaLab UGR.", 
+"bloglink": "https://www.psicobyte.com/articulo/en_el_maker_day_granada"
+},
+{
+"title": "Soberánía tecnológica",
+"link": "https://youtu.be/Ymn5Wa8-iHI",
+"description": "Video-conferencia para el I Congreso Internacional de Educación Inclusiva en la Universidad.", 
+"bloglink": "https://www.psicobyte.com/articulo/en_el_maker_day_granada"
+},
+{
+"title": "Sofware libre",
+"link": "https://www.youtube.com/watch?v=opIpKyjFv0k",
+"description": "Para el 2º Hackathon de la UGR", 
+"bloglink": ""
+}
+]
+

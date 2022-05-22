@@ -1,0 +1,27 @@
+.main_menu  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.main_menu li {
+    float: left;
+    display: inline-block;
+}
+
+.main_menu li a {
+    display: block;
+    color: #aaa;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.selected {
+    color: #fff;
+}
+
+.copy {
+    text-align: right;
+}

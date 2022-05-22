@@ -1,0 +1,24 @@
+.yt {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.yt iframe, .yt object, .yt embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.limit {
+    max-width: 800px;
+    margin: auto;
+}
+
+.description {
+    padding: 10px;
+}
