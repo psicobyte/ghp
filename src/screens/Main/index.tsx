@@ -1,5 +1,4 @@
 import React from 'react'
-
 import Repos from "../../components/Repos";
 import Blog from "../../components/Blog";
 import Conferences from "../../components/Conferences";
@@ -12,12 +11,12 @@ import "./style.css"
 const Main = () => {
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/ghp">
             <Routes>
-                <Route path="/ghp" element={<><Header path={"main"} /><Profile/></>}/>
-                <Route path="/ghp/blog" element={<><Header path={"blog"} /><Blog/></>}/>
-                <Route path="/ghp/charlas" element={<><Header path={"charlas"} /><Conferences/></>}/>
-                <Route path="/ghp/repos" element={<><Header path={"repos"} /><Repos/></>}/>
+                <Route path="/" element={<><Header path={"main"} /><Profile/></>}/>
+                <Route path="/blog" element={<><Header path={"blog"} /><Blog/></>}/>
+                <Route path="/charlas" element={<><Header path={"charlas"} /><Conferences/></>}/>
+                <Route path="/repos" element={<><Header path={"repos"} /><Repos/></>}/>
             </Routes>
             <Footer/>
         </BrowserRouter>
